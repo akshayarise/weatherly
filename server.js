@@ -34,6 +34,6 @@ app.get('/', function (req, res) {
     });
   })
    
-  app.listen(80, function () {
+  app.listen(22, function () {
     console.log('Weatherly app listening on port 3000!')
   })
