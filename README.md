@@ -12,5 +12,5 @@
  ### ps aux | grep node
 
 ## How to terminate the particular process with process ID?
- ### kill -9 <PID>
-### where you replace <PID> by the process ID, or the list of process IDs, the previous command output.
+ ### kill -9 PID
+### where you replace PID by the process ID, or the list of process IDs, the previous command output.
